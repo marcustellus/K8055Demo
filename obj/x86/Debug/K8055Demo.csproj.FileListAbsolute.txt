@@ -1,0 +1,183 @@
+D:\Users\Asentaja\Documents\Programming\C#2008\K8055DemoVC#_2008\K8055Demo\bin\x86\Debug\K8055Demo.exe
+D:\Users\Asentaja\Documents\Programming\C#2008\K8055DemoVC#_2008\K8055Demo\bin\x86\Debug\K8055Demo.pdb
+D:\Users\Asentaja\Documents\Programming\C#2008\K8055DemoVC#_2008\K8055Demo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\Asentaja\Documents\Programming\C#2008\K8055DemoVC#_2008\K8055Demo\obj\x86\Debug\K8055Demo.Form1.resources
+D:\Users\Asentaja\Documents\Programming\C#2008\K8055DemoVC#_2008\K8055Demo\obj\x86\Debug\K8055Demo.Properties.Resources.resources
+D:\Users\Asentaja\Documents\Programming\C#2008\K8055DemoVC#_2008\K8055Demo\obj\x86\Debug\K8055Demo.csproj.GenerateResource.Cache
+D:\Users\Asentaja\Documents\Programming\C#2008\K8055DemoVC#_2008\K8055Demo\obj\x86\Debug\K8055Demo.exe
+D:\Users\Asentaja\Documents\Programming\C#2008\K8055DemoVC#_2008\K8055Demo\obj\x86\Debug\K8055Demo.pdb
+C:\Users\Asentaja\Documents\Programming\C#2008\K8055DemoVC#_2008\K8055Demo\obj\x86\Debug\K8055Demo.exe
+C:\Users\Asentaja\Documents\Programming\C#2008\K8055DemoVC#_2008\K8055Demo\obj\x86\Debug\K8055Demo.pdb
+C:\Users\Asentaja\Documents\Programming\C#2008\K8055DemoVC#_2008\K8055Demo\bin\x86\Debug\K8055Demo.exe
+C:\Users\Asentaja\Documents\Programming\C#2008\K8055DemoVC#_2008\K8055Demo\bin\x86\Debug\K8055Demo.pdb
+C:\Users\Asentaja\Documents\Programming\C#2008\K8055DemoVC#_2008\K8055Demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Asentaja\Documents\Programming\C#2008\K8055DemoVC#_2008\K8055Demo\obj\x86\Debug\K8055Demo.Form1.resources
+C:\Users\Asentaja\Documents\Programming\C#2008\K8055DemoVC#_2008\K8055Demo\obj\x86\Debug\K8055Demo.Properties.Resources.resources
+C:\Users\Asentaja\Documents\Programming\C#2008\K8055DemoVC#_2008\K8055Demo\obj\x86\Debug\K8055Demo.csproj.GenerateResource.Cache
+C:\Users\Marc Speer\Documents\Marc\Biz\Herstellung\TapeMatch\Programmierung\Velleman Programme\Examples\K8055DemoVC#_2008\K8055Demo\bin\x86\Debug\K8055Demo.exe
+C:\Users\Marc Speer\Documents\Marc\Biz\Herstellung\TapeMatch\Programmierung\Velleman Programme\Examples\K8055DemoVC#_2008\K8055Demo\bin\x86\Debug\K8055Demo.pdb
+C:\Users\Marc Speer\Documents\Marc\Biz\Herstellung\TapeMatch\Programmierung\Velleman Programme\Examples\K8055DemoVC#_2008\K8055Demo\obj\x86\Debug\K8055Demo.csprojResolveAssemblyReference.cache
+C:\Users\Marc Speer\Documents\Marc\Biz\Herstellung\TapeMatch\Programmierung\Velleman Programme\Examples\K8055DemoVC#_2008\K8055Demo\obj\x86\Debug\K8055Demo.Form1.resources
+C:\Users\Marc Speer\Documents\Marc\Biz\Herstellung\TapeMatch\Programmierung\Velleman Programme\Examples\K8055DemoVC#_2008\K8055Demo\obj\x86\Debug\K8055Demo.Properties.Resources.resources
+C:\Users\Marc Speer\Documents\Marc\Biz\Herstellung\TapeMatch\Programmierung\Velleman Programme\Examples\K8055DemoVC#_2008\K8055Demo\obj\x86\Debug\K8055Demo.csproj.GenerateResource.Cache
+C:\Users\Marc Speer\Documents\Marc\Biz\Herstellung\TapeMatch\Programmierung\Velleman Programme\Examples\K8055DemoVC#_2008\K8055Demo\obj\x86\Debug\K8055Demo.csproj.CoreCompileInputs.cache
+C:\Users\Marc Speer\Documents\Marc\Biz\Herstellung\TapeMatch\Programmierung\Velleman Programme\Examples\K8055DemoVC#_2008\K8055Demo\obj\x86\Debug\K8055Demo.exe
+C:\Users\Marc Speer\Documents\Marc\Biz\Herstellung\TapeMatch\Programmierung\Velleman Programme\Examples\K8055DemoVC#_2008\K8055Demo\obj\x86\Debug\K8055Demo.pdb
+C:\Users\Marc Speer\Desktop\K8055DemoVC#_2008\K8055Demo\bin\x86\Debug\K8055Demo.exe
+C:\Users\Marc Speer\Desktop\K8055DemoVC#_2008\K8055Demo\bin\x86\Debug\K8055Demo.pdb
+C:\Users\Marc Speer\Desktop\K8055DemoVC#_2008\K8055Demo\bin\x86\Debug\AGauge.dll
+C:\Users\Marc Speer\Desktop\K8055DemoVC#_2008\K8055Demo\bin\x86\Debug\AGauge.pdb
+C:\Users\Marc Speer\Desktop\K8055DemoVC#_2008\K8055Demo\obj\x86\Debug\K8055Demo.csprojResolveAssemblyReference.cache
+C:\Users\Marc Speer\Desktop\K8055DemoVC#_2008\K8055Demo\obj\x86\Debug\K8055Demo.Properties.Resources.resources
+C:\Users\Marc Speer\Desktop\K8055DemoVC#_2008\K8055Demo\obj\x86\Debug\K8055Demo.csproj.GenerateResource.Cache
+C:\Users\Marc Speer\Desktop\K8055DemoVC#_2008\K8055Demo\obj\x86\Debug\K8055Demo.csproj.CoreCompileInputs.cache
+C:\Users\Marc Speer\Desktop\K8055DemoVC#_2008\K8055Demo\obj\x86\Debug\K8055Demo.exe
+C:\Users\Marc Speer\Desktop\K8055DemoVC#_2008\K8055Demo\obj\x86\Debug\K8055Demo.pdb
+C:\Users\Marc Speer\Desktop\K8055DemoVC#_2008\K8055Demo\obj\x86\Debug\K8055Demo.Steuerung.resources
+C:\Users\Marc Speer\Desktop\repo\K8055 GUI - Saver\K8055Demo\bin\x86\Debug\K8055Demo.exe
+C:\Users\Marc Speer\Desktop\repo\K8055 GUI - Saver\K8055Demo\bin\x86\Debug\K8055Demo.pdb
+C:\Users\Marc Speer\Desktop\repo\K8055 GUI - Saver\K8055Demo\bin\x86\Debug\AGauge.pdb
+C:\Users\Marc Speer\Desktop\repo\K8055 GUI - Saver\K8055Demo\obj\x86\Debug\K8055Demo.csprojResolveAssemblyReference.cache
+C:\Users\Marc Speer\Desktop\repo\K8055 GUI - Saver\K8055Demo\obj\x86\Debug\K8055Demo.Steuerung.resources
+C:\Users\Marc Speer\Desktop\repo\K8055 GUI - Saver\K8055Demo\obj\x86\Debug\K8055Demo.Properties.Resources.resources
+C:\Users\Marc Speer\Desktop\repo\K8055 GUI - Saver\K8055Demo\obj\x86\Debug\K8055Demo.csproj.GenerateResource.Cache
+C:\Users\Marc Speer\Desktop\repo\K8055 GUI - Saver\K8055Demo\obj\x86\Debug\K8055Demo.csproj.CoreCompileInputs.cache
+C:\Users\Marc Speer\Desktop\repo\K8055 GUI - Saver\K8055Demo\obj\x86\Debug\K8055Demo.exe
+C:\Users\Marc Speer\Desktop\repo\K8055 GUI - Saver\K8055Demo\obj\x86\Debug\K8055Demo.pdb
+C:\Users\Marc Speer\Desktop\K8055 GUI - Saver\K8055Demo\bin\x86\Debug\K8055Demo.exe
+C:\Users\Marc Speer\Desktop\K8055 GUI - Saver\K8055Demo\bin\x86\Debug\K8055Demo.pdb
+C:\Users\Marc Speer\Desktop\K8055 GUI - Saver\K8055Demo\bin\x86\Debug\AForge.dll
+C:\Users\Marc Speer\Desktop\K8055 GUI - Saver\K8055Demo\bin\x86\Debug\AForge.Video.DirectShow.dll
+C:\Users\Marc Speer\Desktop\K8055 GUI - Saver\K8055Demo\bin\x86\Debug\AForge.Video.dll
+C:\Users\Marc Speer\Desktop\K8055 GUI - Saver\K8055Demo\bin\x86\Debug\DarrenLee.Media.dll
+C:\Users\Marc Speer\Desktop\K8055 GUI - Saver\K8055Demo\bin\x86\Debug\AGauge.pdb
+C:\Users\Marc Speer\Desktop\K8055 GUI - Saver\K8055Demo\obj\x86\Debug\K8055Demo.csprojResolveAssemblyReference.cache
+C:\Users\Marc Speer\Desktop\K8055 GUI - Saver\K8055Demo\obj\x86\Debug\K8055Demo.Steuerung.resources
+C:\Users\Marc Speer\Desktop\K8055 GUI - Saver\K8055Demo\obj\x86\Debug\K8055Demo.Form2.resources
+C:\Users\Marc Speer\Desktop\K8055 GUI - Saver\K8055Demo\obj\x86\Debug\K8055Demo.Properties.Resources.resources
+C:\Users\Marc Speer\Desktop\K8055 GUI - Saver\K8055Demo\obj\x86\Debug\K8055Demo.csproj.GenerateResource.Cache
+C:\Users\Marc Speer\Desktop\K8055 GUI - Saver\K8055Demo\obj\x86\Debug\K8055Demo.csproj.CoreCompileInputs.cache
+C:\Users\Marc Speer\Desktop\K8055 GUI - Saver\K8055Demo\obj\x86\Debug\K8055Demo.exe
+C:\Users\Marc Speer\Desktop\K8055 GUI - Saver\K8055Demo\obj\x86\Debug\K8055Demo.pdb
+C:\Users\Marc Speer\Desktop\K8055 GUI - Saver - Kopie\K8055Demo\bin\x86\Debug\K8055Demo.exe
+C:\Users\Marc Speer\Desktop\K8055 GUI - Saver - Kopie\K8055Demo\bin\x86\Debug\K8055Demo.pdb
+C:\Users\Marc Speer\Desktop\K8055 GUI - Saver - Kopie\K8055Demo\bin\x86\Debug\AForge.dll
+C:\Users\Marc Speer\Desktop\K8055 GUI - Saver - Kopie\K8055Demo\bin\x86\Debug\AForge.Video.DirectShow.dll
+C:\Users\Marc Speer\Desktop\K8055 GUI - Saver - Kopie\K8055Demo\bin\x86\Debug\AForge.Video.dll
+C:\Users\Marc Speer\Desktop\K8055 GUI - Saver - Kopie\K8055Demo\bin\x86\Debug\DarrenLee.Media.dll
+C:\Users\Marc Speer\Desktop\K8055 GUI - Saver - Kopie\K8055Demo\bin\x86\Debug\AGauge.pdb
+C:\Users\Marc Speer\Desktop\K8055 GUI - Saver - Kopie\K8055Demo\obj\x86\Debug\K8055Demo.csprojResolveAssemblyReference.cache
+C:\Users\Marc Speer\Desktop\K8055 GUI - Saver - Kopie\K8055Demo\obj\x86\Debug\K8055Demo.Steuerung.resources
+C:\Users\Marc Speer\Desktop\K8055 GUI - Saver - Kopie\K8055Demo\obj\x86\Debug\K8055Demo.Form2.resources
+C:\Users\Marc Speer\Desktop\K8055 GUI - Saver - Kopie\K8055Demo\obj\x86\Debug\K8055Demo.Properties.Resources.resources
+C:\Users\Marc Speer\Desktop\K8055 GUI - Saver - Kopie\K8055Demo\obj\x86\Debug\K8055Demo.csproj.GenerateResource.Cache
+C:\Users\Marc Speer\Desktop\K8055 GUI - Saver - Kopie\K8055Demo\obj\x86\Debug\K8055Demo.csproj.CoreCompileInputs.cache
+C:\Users\Marc Speer\Desktop\K8055 GUI - Saver - Kopie\K8055Demo\obj\x86\Debug\K8055Demo.exe
+C:\Users\Marc Speer\Desktop\K8055 GUI - Saver - Kopie\K8055Demo\obj\x86\Debug\K8055Demo.pdb
+C:\Users\Marc Speer\Desktop\K8055 GUI - Saver - Kopie\K8055Demo\bin\x86\Debug\K8055Demo.exe.manifest
+C:\Users\Marc Speer\Desktop\K8055 GUI - Saver - Kopie\K8055Demo\bin\x86\Debug\K8055Demo.application
+C:\Users\Marc Speer\Desktop\K8055 GUI - Saver - Kopie\K8055Demo\obj\x86\Debug\K8055Demo.exe.manifest
+C:\Users\Marc Speer\Desktop\K8055 GUI - Saver - Kopie\K8055Demo\obj\x86\Debug\K8055Demo.application
+C:\Users\Marc Speer\Desktop\Projekte\PC2K8055GUI\K8055 GUI\K8055Demo\bin\x86\Debug\K8055Demo.exe.manifest
+C:\Users\Marc Speer\Desktop\Projekte\PC2K8055GUI\K8055 GUI\K8055Demo\bin\x86\Debug\K8055Demo.application
+C:\Users\Marc Speer\Desktop\Projekte\PC2K8055GUI\K8055 GUI\K8055Demo\bin\x86\Debug\K8055Demo.exe
+C:\Users\Marc Speer\Desktop\Projekte\PC2K8055GUI\K8055 GUI\K8055Demo\bin\x86\Debug\K8055Demo.pdb
+C:\Users\Marc Speer\Desktop\Projekte\PC2K8055GUI\K8055 GUI\K8055Demo\bin\x86\Debug\AGauge.pdb
+C:\Users\Marc Speer\Desktop\Projekte\PC2K8055GUI\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.csprojResolveAssemblyReference.cache
+C:\Users\Marc Speer\Desktop\Projekte\PC2K8055GUI\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.Form2.resources
+C:\Users\Marc Speer\Desktop\Projekte\PC2K8055GUI\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.Properties.Resources.resources
+C:\Users\Marc Speer\Desktop\Projekte\PC2K8055GUI\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.csproj.GenerateResource.Cache
+C:\Users\Marc Speer\Desktop\Projekte\PC2K8055GUI\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.csproj.CoreCompileInputs.cache
+C:\Users\Marc Speer\Desktop\Projekte\PC2K8055GUI\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.exe.manifest
+C:\Users\Marc Speer\Desktop\Projekte\PC2K8055GUI\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.application
+C:\Users\Marc Speer\Desktop\Projekte\PC2K8055GUI\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.exe
+C:\Users\Marc Speer\Desktop\Projekte\PC2K8055GUI\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.pdb
+C:\Users\Marc Speer\Desktop\K8055 GUI\K8055Demo\bin\x86\Debug\K8055Demo.exe.manifest
+C:\Users\Marc Speer\Desktop\K8055 GUI\K8055Demo\bin\x86\Debug\K8055Demo.application
+C:\Users\Marc Speer\Desktop\K8055 GUI\K8055Demo\bin\x86\Debug\K8055Demo.exe
+C:\Users\Marc Speer\Desktop\K8055 GUI\K8055Demo\bin\x86\Debug\K8055Demo.pdb
+C:\Users\Marc Speer\Desktop\K8055 GUI\K8055Demo\bin\x86\Debug\AGauge.pdb
+C:\Users\Marc Speer\Desktop\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.csprojResolveAssemblyReference.cache
+C:\Users\Marc Speer\Desktop\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.Form2.resources
+C:\Users\Marc Speer\Desktop\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.Properties.Resources.resources
+C:\Users\Marc Speer\Desktop\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.csproj.GenerateResource.Cache
+C:\Users\Marc Speer\Desktop\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.csproj.CoreCompileInputs.cache
+C:\Users\Marc Speer\Desktop\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.exe.manifest
+C:\Users\Marc Speer\Desktop\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.application
+C:\Users\Marc Speer\Desktop\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.exe
+C:\Users\Marc Speer\Desktop\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.pdb
+C:\Users\Dell\Desktop\K8055 GUI\K8055Demo\bin\x86\Debug\K8055Demo.exe.manifest
+C:\Users\Dell\Desktop\K8055 GUI\K8055Demo\bin\x86\Debug\K8055Demo.application
+C:\Users\Dell\Desktop\K8055 GUI\K8055Demo\bin\x86\Debug\K8055Demo.exe
+C:\Users\Dell\Desktop\K8055 GUI\K8055Demo\bin\x86\Debug\K8055Demo.pdb
+C:\Users\Dell\Desktop\K8055 GUI\K8055Demo\bin\x86\Debug\AGauge.pdb
+C:\Users\Dell\Desktop\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.Form2.resources
+C:\Users\Dell\Desktop\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.Properties.Resources.resources
+C:\Users\Dell\Desktop\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.exe.manifest
+C:\Users\Dell\Desktop\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.application
+C:\Users\Dell\Desktop\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.exe
+C:\Users\Dell\Desktop\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.pdb
+C:\Users\Dell\Documents\FreigabeDell\K8055\K8055 GUI\K8055Demo\bin\x86\Debug\K8055Demo.exe.manifest
+C:\Users\Dell\Documents\FreigabeDell\K8055\K8055 GUI\K8055Demo\bin\x86\Debug\K8055Demo.application
+C:\Users\Dell\Documents\FreigabeDell\K8055\K8055 GUI\K8055Demo\bin\x86\Debug\K8055Demo.exe
+C:\Users\Dell\Documents\FreigabeDell\K8055\K8055 GUI\K8055Demo\bin\x86\Debug\K8055Demo.pdb
+C:\Users\Dell\Documents\FreigabeDell\K8055\K8055 GUI\K8055Demo\bin\x86\Debug\AGauge.pdb
+C:\Users\Dell\Documents\FreigabeDell\K8055\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\FreigabeDell\K8055\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.Form2.resources
+C:\Users\Dell\Documents\FreigabeDell\K8055\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.Properties.Resources.resources
+C:\Users\Dell\Documents\FreigabeDell\K8055\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\FreigabeDell\K8055\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\FreigabeDell\K8055\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.exe.manifest
+C:\Users\Dell\Documents\FreigabeDell\K8055\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.application
+C:\Users\Dell\Documents\FreigabeDell\K8055\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.exe
+C:\Users\Dell\Documents\FreigabeDell\K8055\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.pdb
+C:\Users\Marc Speer\Documents\Marc\Biz\Projekte\PC2K8055GUI\K8055 GUI\K8055Demo\bin\x86\Debug\K8055Demo.exe.manifest
+C:\Users\Marc Speer\Documents\Marc\Biz\Projekte\PC2K8055GUI\K8055 GUI\K8055Demo\bin\x86\Debug\K8055Demo.application
+C:\Users\Marc Speer\Documents\Marc\Biz\Projekte\PC2K8055GUI\K8055 GUI\K8055Demo\bin\x86\Debug\K8055Demo.exe
+C:\Users\Marc Speer\Documents\Marc\Biz\Projekte\PC2K8055GUI\K8055 GUI\K8055Demo\bin\x86\Debug\K8055Demo.pdb
+C:\Users\Marc Speer\Documents\Marc\Biz\Projekte\PC2K8055GUI\K8055 GUI\K8055Demo\bin\x86\Debug\AGauge.pdb
+C:\Users\Marc Speer\Documents\Marc\Biz\Projekte\PC2K8055GUI\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.csprojAssemblyReference.cache
+C:\Users\Marc Speer\Documents\Marc\Biz\Projekte\PC2K8055GUI\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.Form2.resources
+C:\Users\Marc Speer\Documents\Marc\Biz\Projekte\PC2K8055GUI\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.Properties.Resources.resources
+C:\Users\Marc Speer\Documents\Marc\Biz\Projekte\PC2K8055GUI\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.csproj.GenerateResource.cache
+C:\Users\Marc Speer\Documents\Marc\Biz\Projekte\PC2K8055GUI\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.csproj.CoreCompileInputs.cache
+C:\Users\Marc Speer\Documents\Marc\Biz\Projekte\PC2K8055GUI\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.exe.manifest
+C:\Users\Marc Speer\Documents\Marc\Biz\Projekte\PC2K8055GUI\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.application
+C:\Users\Marc Speer\Documents\Marc\Biz\Projekte\PC2K8055GUI\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.csproj.CopyComplete
+C:\Users\Marc Speer\Documents\Marc\Biz\Projekte\PC2K8055GUI\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.exe
+C:\Users\Marc Speer\Documents\Marc\Biz\Projekte\PC2K8055GUI\K8055 GUI\K8055Demo\obj\x86\Debug\K8055Demo.pdb
+C:\Users\Marc Speer\Documents\Marc\Biz\Projekte\_Abgeschlossen\BlitzBandSoft2018\K8055Demo\bin\x86\Debug\BlitzBandSoft2018.exe.manifest
+C:\Users\Marc Speer\Documents\Marc\Biz\Projekte\_Abgeschlossen\BlitzBandSoft2018\K8055Demo\bin\x86\Debug\BlitzBandSoft2018.application
+C:\Users\Marc Speer\Documents\Marc\Biz\Projekte\_Abgeschlossen\BlitzBandSoft2018\K8055Demo\bin\x86\Debug\BlitzBandSoft2018.exe
+C:\Users\Marc Speer\Documents\Marc\Biz\Projekte\_Abgeschlossen\BlitzBandSoft2018\K8055Demo\bin\x86\Debug\BlitzBandSoft2018.pdb
+C:\Users\Marc Speer\Documents\Marc\Biz\Projekte\_Abgeschlossen\BlitzBandSoft2018\K8055Demo\bin\x86\Debug\AGauge.pdb
+C:\Users\Marc Speer\Documents\Marc\Biz\Projekte\_Abgeschlossen\BlitzBandSoft2018\K8055Demo\obj\x86\Debug\K8055Demo.csprojResolveAssemblyReference.cache
+C:\Users\Marc Speer\Documents\Marc\Biz\Projekte\_Abgeschlossen\BlitzBandSoft2018\K8055Demo\obj\x86\Debug\K8055Demo.Form2.resources
+C:\Users\Marc Speer\Documents\Marc\Biz\Projekte\_Abgeschlossen\BlitzBandSoft2018\K8055Demo\obj\x86\Debug\BlitzBandSoft2018.Properties.Resources.resources
+C:\Users\Marc Speer\Documents\Marc\Biz\Projekte\_Abgeschlossen\BlitzBandSoft2018\K8055Demo\obj\x86\Debug\K8055Demo.csproj.GenerateResource.Cache
+C:\Users\Marc Speer\Documents\Marc\Biz\Projekte\_Abgeschlossen\BlitzBandSoft2018\K8055Demo\obj\x86\Debug\K8055Demo.csproj.CoreCompileInputs.cache
+C:\Users\Marc Speer\Documents\Marc\Biz\Projekte\_Abgeschlossen\BlitzBandSoft2018\K8055Demo\obj\x86\Debug\BlitzBandSoft2018.exe.manifest
+C:\Users\Marc Speer\Documents\Marc\Biz\Projekte\_Abgeschlossen\BlitzBandSoft2018\K8055Demo\obj\x86\Debug\BlitzBandSoft2018.application
+C:\Users\Marc Speer\Documents\Marc\Biz\Projekte\_Abgeschlossen\BlitzBandSoft2018\K8055Demo\obj\x86\Debug\BlitzBandSoft2018.exe
+C:\Users\Marc Speer\Documents\Marc\Biz\Projekte\_Abgeschlossen\BlitzBandSoft2018\K8055Demo\obj\x86\Debug\BlitzBandSoft2018.pdb
+C:\Users\marc\Documents\Dokumente\Marc\Biz\Projekte\_Abgeschlossen\BlitzBandSoft2018\K8055Demo\bin\x86\Debug\BlitzBandSoft2018.exe.manifest
+C:\Users\marc\Documents\Dokumente\Marc\Biz\Projekte\_Abgeschlossen\BlitzBandSoft2018\K8055Demo\bin\x86\Debug\BlitzBandSoft2018.application
+C:\Users\marc\Documents\Dokumente\Marc\Biz\Projekte\_Abgeschlossen\BlitzBandSoft2018\K8055Demo\bin\x86\Debug\BlitzBandSoft2018.exe
+C:\Users\marc\Documents\Dokumente\Marc\Biz\Projekte\_Abgeschlossen\BlitzBandSoft2018\K8055Demo\bin\x86\Debug\BlitzBandSoft2018.pdb
+C:\Users\marc\Documents\Dokumente\Marc\Biz\Projekte\_Abgeschlossen\BlitzBandSoft2018\K8055Demo\bin\x86\Debug\AGauge.pdb
+C:\Users\marc\Documents\Dokumente\Marc\Biz\Projekte\_Abgeschlossen\BlitzBandSoft2018\K8055Demo\obj\x86\Debug\K8055Demo.csprojAssemblyReference.cache
+C:\Users\marc\Documents\Dokumente\Marc\Biz\Projekte\_Abgeschlossen\BlitzBandSoft2018\K8055Demo\obj\x86\Debug\K8055Demo.Form2.resources
+C:\Users\marc\Documents\Dokumente\Marc\Biz\Projekte\_Abgeschlossen\BlitzBandSoft2018\K8055Demo\obj\x86\Debug\BlitzBandSoft2018.Properties.Resources.resources
+C:\Users\marc\Documents\Dokumente\Marc\Biz\Projekte\_Abgeschlossen\BlitzBandSoft2018\K8055Demo\obj\x86\Debug\K8055Demo.csproj.GenerateResource.cache
+C:\Users\marc\Documents\Dokumente\Marc\Biz\Projekte\_Abgeschlossen\BlitzBandSoft2018\K8055Demo\obj\x86\Debug\K8055Demo.csproj.CoreCompileInputs.cache
+C:\Users\marc\Documents\Dokumente\Marc\Biz\Projekte\_Abgeschlossen\BlitzBandSoft2018\K8055Demo\obj\x86\Debug\BlitzBandSoft2018.exe.manifest
+C:\Users\marc\Documents\Dokumente\Marc\Biz\Projekte\_Abgeschlossen\BlitzBandSoft2018\K8055Demo\obj\x86\Debug\BlitzBandSoft2018.application
+C:\Users\marc\Documents\Dokumente\Marc\Biz\Projekte\_Abgeschlossen\BlitzBandSoft2018\K8055Demo\obj\x86\Debug\K8055Demo.csproj.CopyComplete
+C:\Users\marc\Documents\Dokumente\Marc\Biz\Projekte\_Abgeschlossen\BlitzBandSoft2018\K8055Demo\obj\x86\Debug\BlitzBandSoft2018.exe
+C:\Users\marc\Documents\Dokumente\Marc\Biz\Projekte\_Abgeschlossen\BlitzBandSoft2018\K8055Demo\obj\x86\Debug\BlitzBandSoft2018.pdb
+D:\Biz\Projekte\_Abgeschlossen\BlitzBandSoftWare\Software2018\Finale Version\obj\x86\Debug\K8055Demo.csproj.AssemblyReference.cache
+D:\Biz\Projekte\_Abgeschlossen\BlitzBandSoftWare\Software2018\Finale Version\obj\x86\Debug\BlitzBandSoft2018.exe
+D:\Biz\Projekte\_Abgeschlossen\BlitzBandSoftWare\Software2018\Finale Version\obj\x86\Debug\BlitzBandSoft2018.pdb
